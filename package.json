@@ -1,8 +1,8 @@
 {
     "_from": "zsh@^6.1.0",
-    "_id": "zsh-static@6.1.0",
-    "_spec": "zsh-static@^6.1.0",
-    "name": "zsh-static",
+    "_id": "zsh-bin@6.1.0",
+    "_spec": "zsh-bin@^6.1.0",
+    "name": "zsh-bin",
     "description": "Statically-linked, hermetic, relocatable ZSH",
     "version": "6.1.0",
     "homepage": "https://github.com/romkatv/zsh-bin",
