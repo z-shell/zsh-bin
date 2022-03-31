@@ -10,7 +10,7 @@
 |     **Status:**     |      :x:       |  :x:   | :heavy_check_mark: (default) | :x:  | :x: |
 
 </h2>
-  <img src="https://user-images.githubusercontent.com/59910950/161060980-8bc70578-e086-4a51-8cd4-ed3d7289f216.gif" alt="Logo" width="auto" height="440" />
+  <img src="https://user-images.githubusercontent.com/59910950/161060980-8bc70578-e086-4a51-8cd4-ed3d7289f216.gif" alt="Logo" />
 </td></tr></table></div>
   
 The package provides the [romkatv/zsh-bin](https://github.com/romkatv/zsh-bin) statically-linked, hermetic, relocatable Zsh
