@@ -4,13 +4,15 @@
   <img align="center" style="width:60px;height:auto" src="https://github.com/z-shell/zi/raw/main/docs/images/logo.svg" alt="ZI Logo" /></a>
 <h2> ❮ ZI ❯ Package - Zsh bin </h2><h3> Package of statically-linked, hermetic, relocatable - romkatv/zsh-bin </h3>
 </td></tr>
-<tr><td align="center"><h2>
+<tr><td align="center"><h3>
   
 | **Package source:** | Source Tarball | Binary |              Git             | Node | Gem |
 | :-----------------: | :------------: | :----: | :--------------------------: | :--: | :-: |
 |     **Status:**     |      :x:       |  :x:   | :heavy_check_mark: (default) | :x:  | :x: |
 
-</h2><img src="https://user-images.githubusercontent.com/59910950/161060980-8bc70578-e086-4a51-8cd4-ed3d7289f216.gif" alt="Logo" width="360" height="auto" />
+</h3>
+  <img style="width:90%;height:auto" 
+       src="https://user-images.githubusercontent.com/59910950/161060980-8bc70578-e086-4a51-8cd4-ed3d7289f216.gif" alt="Preview" />
 </td></tr></table></div>
   
 ### Available `pack''` invocations
