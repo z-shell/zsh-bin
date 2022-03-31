@@ -1,9 +1,12 @@
-<div align="center" width="100%"><table>
-  <tr><td align="center"><a href="https://github.com/z-shell/zi">
-    <img src="https://github.com/z-shell/zi/raw/main/docs/images/logo.svg" alt="Logo" width="60" height="60" />
+<div align="center"><table>
+  <tr><td align="center"><br />
+    <a href="https://github.com/z-shell/zi">
+      <p><img src="https://github.com/z-shell/zi/raw/main/docs/images/logo.svg" alt="Logo" width="60" height="60" /></p>
     </a>
-<h2> ❮ ZI ❯ Package - Statically-linked, hermetic, relocatable Zsh </h2>
-</tr></td><tr><td align="center"><h2>
+<h2> ❮ ZI ❯ Package - Zsh bin </h2>
+<h3> Package of statically-linked, hermetic, relocatable romkatv/zsh-bin </h3>
+</td></tr>
+<tr><td align="center"><h2>
   
 | **Package source:** | Source Tarball | Binary |              Git             | Node | Gem |
 | :-----------------: | :------------: | :----: | :--------------------------: | :--: | :-: |
@@ -13,8 +16,6 @@
   <img src="https://user-images.githubusercontent.com/59910950/161060980-8bc70578-e086-4a51-8cd4-ed3d7289f216.gif" alt="Logo" />
 </td></tr></table></div>
   
-The package provides the [romkatv/zsh-bin](https://github.com/romkatv/zsh-bin) statically-linked, hermetic, relocatable Zsh
-
 ### Available `pack''` invocations
 
 ```zsh
