@@ -2,17 +2,17 @@
   <h1><a target="_self" href="https://github.com/z-shell/zi/">
     <img align="center" src="https://github.com/z-shell/zi/raw/main/docs/images/logo.svg" width="60px" height="60px" alt="ZI Logo" /></a>
     ❮ ZI ❯ Package - Zsh Bin </h1>
-<h2 align="center">
+<h3 align="center">
 
 | **Package source:** | Source Tarball | Binary |             Git              | Node | Gem |
 | :-----------------: | :------------: | :----: | :--------------------------: | :--: | :-: |
 |     **Status:**     |      :x:       |  :x:   | :heavy_check_mark: (default) | :x:  | :x: |
 
-</h2>
-  <h3 align="center">
-  <p> Package of statically-linked, hermetic, relocatable - romkatv/zsh-bin </p>
-  <p><img align="center" src="https://user-images.githubusercontent.com/59910950/161060980-8bc70578-e086-4a51-8cd4-ed3d7289f216.gif" width="100%" height="auto" alt="zi package zsh static bin" /></p>
-  </h3>
+</h3>
+<h3 align="center">
+<p> Package of statically-linked, hermetic, relocatable - romkatv/zsh-bin </p>
+<p><img align="center" src="https://user-images.githubusercontent.com/59910950/161060980-8bc70578-e086-4a51-8cd4-ed3d7289f216.gif" width="100%" height="auto" alt="zi package zsh static bin" /></p>
+</h3>
 </td></tr></table></div><hr />
 
 ## Available `pack''` invocations
