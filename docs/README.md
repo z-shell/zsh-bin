@@ -1,19 +1,33 @@
-<div align="center"><table><tr><td>
-  <h1><a target="_self" href="https://github.com/z-shell/zi/">
+<table align="center"><tr><td>
+<h1 align="center">
+  <p><a target="_self" href="https://github.com/z-shell/zi/">
     <img align="center" src="https://github.com/z-shell/zi/raw/main/docs/images/logo.svg" width="60px" height="60px" alt="ZI Logo" /></a>
-    ❮ ZI ❯ Package - Zsh Bin </h1>
+    ❮ ZI ❯ Package - Zsh Bin </p>
+</h1>
 <h2 align="center">
-<p> Package of statically-linked, hermetic, relocatable - romkatv/zsh-bin </p>
+  <p> Package of statically-linked, hermetic, relocatable - <a target="_self" href="https://github.com/romkatv/zsh-bin">romkatv/zsh-bin</a></p>
 </h2>
 <h3 align="center">
-
-| **Package source:** | Source Tarball | Binary |             Git              | Node | Gem |
-| :-----------------: | :------------: | :----: | :--------------------------: | :--: | :-: |
-|     **Status:**     |      :x:       |  :x:   | :heavy_check_mark: (default) | :x:  | :x: |
-
-</h3>
-<p><img align="center" src="https://user-images.githubusercontent.com/59910950/161060980-8bc70578-e086-4a51-8cd4-ed3d7289f216.gif" width="100%" height="auto" alt="zi package zsh static bin" /></p>
-</td></tr></table></div><hr />
+<table>
+    <tr>
+        <td><b>Package source:</b></td>
+        <td>Source Tarball</td>
+        <td>Binary</td>
+        <td>Git</td>
+        <td>Node</td>
+        <td>Gem</td>
+    </tr>
+    <tr>
+        <td><b>Status:</b></td>
+        <td>❌</td>
+        <td>❌</td>
+        <td>✔️ (default)</td>
+        <td>❌</td>
+        <td>❌</td>
+    </tr>
+</table></h3>
+  <p><img align="center" src="https://user-images.githubusercontent.com/59910950/161060980-8bc70578-e086-4a51-8cd4-ed3d7289f216.gif" width="100%" height="auto" alt="zi package zsh static bin" /></p>
+</td></tr></table><hr />
 
 ## Available `pack''` invocations
 
@@ -23,7 +37,7 @@ zi pack for zsh-bin
 
 ### Default profile
 
-**Requires **sudo\*\* to install Zsh to /usr/local and will attempt to register it as a login shell.
+<b>Requires sudo</b> to install Zsh to /usr/local and will attempt to register it as a login shell.
 
 ```shell
 zi lucid for as"null" depth"1" \
@@ -34,7 +48,7 @@ zi lucid for as"null" depth"1" \
 
 ### Rootless profile
 
-Does not require **root**, will install to ~/.local.
+Does not require <b>root</b>, will install to ~/.local.
 
 ```shell
 zi lucid for as"null" depth"1" \
