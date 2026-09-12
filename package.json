@@ -12,8 +12,7 @@
   "zsh-data": {
     "plugin-info": {
       "user": "romkatv",
-      "plugin": "zsh-bin",
-      "version": "6.1.0"
+      "plugin": "zsh-bin"
     },
     "zi-ices": {
       "bgn": {
